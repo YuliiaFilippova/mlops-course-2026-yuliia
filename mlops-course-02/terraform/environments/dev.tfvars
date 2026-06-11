@@ -7,7 +7,7 @@ s3_buckets = [
     key  = "mlops-course-yuliia-datastore"
     tags = {}
   },
-   THERE CAN BE AS MANY BUCKETS AS NEEDED!
+   #THERE CAN BE AS MANY BUCKETS AS NEEDED!
   {
     key  = "mlops-course-den-datastore"
     tags = {}
