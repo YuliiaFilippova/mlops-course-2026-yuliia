@@ -23,8 +23,8 @@ ecr_repositories = [
 
 ecs_services = [
   {
-    key            = "mlops-course-ehb"
-    ecr_repository = "mlops-course-ehb-repository"
+    key            = "mlops-course-yuliia"
+    ecr_repository = "mlops-course-yuliia-repository"
     image_tag      = "latest"
     container_port = 80
     cpu            = 256
